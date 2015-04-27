@@ -1,0 +1,35 @@
+.resultados{
+	border:solid 2px #000055;
+	margin: 0 auto;
+	border-radius:5px;
+}
+
+table,td,th{
+	color: #000055;
+	border:solid 1px #000055;
+}
+
+table{
+	border-spacing:0;
+}
+
+th{
+	height:40px;
+	background: rgba(0,0,0,0.1);
+	padding: 5px;
+}
+
+td{
+	background: rgba(255,255,255,0.95);
+	padding: 3px;
+}
+
+.resultados img{
+	width: 25px;
+	height: 25px;
+}
+
+#semregistro{
+	color: #000055;
+	padding: 5px;
+}

@@ -1,0 +1,63 @@
+input {
+	font: 12px verdana, arial, helvetica, sans-serif;
+	border:2px solid #BBBBEE;
+	border-radius: 3px;
+}
+
+form{
+	text-align:center;
+	margin:0 auto;
+}
+
+.submit{
+	background-color: #000055;
+	height: 30px;
+	width: 130px;
+	font-size: 16;
+	border:2px solid #000030;
+	border-radius: 5px;
+	color:white;
+	float:none;
+	cursor:pointer;
+}
+
+.submit:hover{
+	background-color: #000099;
+}
+
+button{
+	background-color: #000055;
+	height: 30px;
+	width: 130px;
+	font-size: 16;
+	border:2px solid #000030;
+	border-radius: 5px;
+	color:white;
+	float:none;
+	cursor:pointer;
+}
+
+button:hover{
+	background-color: #000099;
+}
+
+label {	
+	text-align: right;
+	width: 180px;
+	padding-right: 5px;
+	font-size:16;
+}
+
+fieldset {
+	border: solid 1px #000055;
+	border-radius:5px;
+	padding:25px;
+	margin:30px auto;
+	width: 35%;
+	text-align:left;
+	color: #000055;
+	font-size:13;
+}
+
+
+
